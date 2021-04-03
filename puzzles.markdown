@@ -23,3 +23,7 @@ I also have a blog for standard crossword puzzles: **[https://wordsxing.blogspot
 I post a new puzzle whenever I have one to share, roughly once a week. You'll find some themed puzzles and some themeless ones, as well as some experimentations with grid sizes, symmetry, and structures.
 
 (P.S. I know that graphic ^ is terribly amateurish but it's the best I can do. Could you make it better? Email me! I'm willing to spend some $$ on graphic design.)
+
+# Published Puzzles
+
+I have published some mathematics-themed crossword puzzles for the Mathematical Association of America ([MAA](https://www.maa.org/)). Some of them have appeared in their journal, *Mathematics Magazine*, and some have appeared in conference materials at the MAA's [MathFest](https://www.maa.org/meetings/mathfest) and the Joint Mathematics Meetings. A detailed list of links is forthcoming; for now, some are findable through my [Google Scholar profile](https://scholar.google.com/citations?user=KgrsM4cAAAAJ&hl=en).

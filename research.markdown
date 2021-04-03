@@ -20,8 +20,10 @@ Since this is a game, this research can be purely recreational (as it is for me)
 
 # Relevant links:
 
+* [My Google Scholar profile](https://scholar.google.com/citations?user=KgrsM4cAAAAJ&hl=en)
 * [My faculty page on the Emmanuel College website](https://www.emmanuel.edu/academics/our-faculty/brendan-sullivan.html)
 * [The Cops and Robbers Theorem: Infinite Series](https://youtu.be/9mJEu-j1KT0) A YouTube video from PBS about this topic. I consulted on the script for the video.
 * [Another video from PBS Infinite Series, a follow-up video to that first one.](https://youtu.be/fXvN-pF76-E) 
 * The 3x3 rooks graph is the unique smallest graph with lazy cop number 3: [https://arxiv.org/abs/1606.08485](https://arxiv.org/abs/1606.08485)
 * An Introduction to Lazy Cops and Robbers on Graphs: [https://www.tandfonline.com/doi/abs/10.4169/college.math.j.48.5.322](https://www.tandfonline.com/doi/abs/10.4169/college.math.j.48.5.322)
+* Some expository presentations and writings, including the slides from my dissertation defense, are available on [my old CMU personal page](https://www.math.cmu.edu/~bwsulliv/publications).

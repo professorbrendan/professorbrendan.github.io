@@ -42,3 +42,8 @@ This page has information about my teaching experience.
 * *Awards and recognition:*
 	* Nominee: Faculty Excellence in Teaching Award (Emmanuel College, 2017-2018)
 	* Winner: [Hugh D. Young Graduate Student Teaching Award](https://www.cmu.edu/mcs/discover/awards/mcs/young.html) (Carnegie Mellon Univ., Mellon College of Science, 2013)
+
+# Teaching Materials and Resources
+
+* **[My YouTube channel](https://www.youtube.com/channel/UCFI-m522FAi7mGVDH7niBQQ/videos)** has a few videos I've made for calculus courses. More to come in the near future.
+* I post often about teaching and learning on Twitter, so follow me there: **[@professorbrenda](https://twitter.com/professorbrenda)**

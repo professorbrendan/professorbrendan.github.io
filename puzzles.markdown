@@ -12,7 +12,7 @@ This page has information about my crossword puzzles.
 
 I've written a book of mathematical crossword puzzles (and another volume coming soon) available at this link: **[https://bit.ly/MiniMathCrosswords](https://bit.ly/MiniMathCrosswords)**
 
-The puzzles are mathematical in the sense that they contain lots of words and names from the mathematics community, not because the grids are filled with numbers or anything like that! That is, instead of the tricky wordplay you'll find in the New York Times puzzles, Brendan's crosswords have theme answers and lots of other fill that are words and names from the math world that you might otherwise never see in a puzzle. If you'd like to see your math knowledge and trivia prove useful all throughout a puzzle, and not just every once in a while, then you'll love these crosswords. 
+The puzzles are mathematical in the sense that they contain lots of words and names from the mathematics community, not because the grids are filled with numbers or anything like that! That is, instead of the tricky wordplay you'll find in the New York Times puzzles, the crosswords in this book have theme answers and lots of other fill that are words and names from the math world that you might otherwise never see in a puzzle. If you'd like to see your math knowledge and trivia prove useful all throughout a puzzle, and not just every once in a while, then you'll love these crosswords. 
 
 # [Words Xing](https://wordsxing.blogspot.com/)
 

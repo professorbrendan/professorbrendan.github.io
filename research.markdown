@@ -21,6 +21,7 @@ Since this is a game, this research can be purely recreational (as it is for me)
 # Relevant links:
 
 * [My Google Scholar profile](https://scholar.google.com/citations?user=KgrsM4cAAAAJ&hl=en)
+* [My ResearchGate profile](https://www.researchgate.net/profile/Brendan-Sullivan)
 * [My faculty page on the Emmanuel College website](https://www.emmanuel.edu/academics/our-faculty/brendan-sullivan.html)
 * [The Cops and Robbers Theorem: Infinite Series](https://youtu.be/9mJEu-j1KT0) A YouTube video from PBS about this topic. I consulted on the script for the video.
 * [Another video from PBS Infinite Series, a follow-up video to that first one.](https://youtu.be/fXvN-pF76-E) 

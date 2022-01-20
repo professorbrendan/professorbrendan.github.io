@@ -23,6 +23,7 @@ Since this is a game, this research can be purely recreational (as it is for me)
 * [My Google Scholar profile](https://scholar.google.com/citations?user=KgrsM4cAAAAJ&hl=en)
 * [My ResearchGate profile](https://www.researchgate.net/profile/Brendan-Sullivan)
 * [My faculty page on the Emmanuel College website](https://www.emmanuel.edu/academics/our-faculty/brendan-sullivan.html)
+* ["Product Graphs and the Chaser-Runner Game"](https://youtu.be/fWhpjl44ODM): YouTube recording of a 1-hour presentation on my research for the [*Talk Math With Your Friends*](https://www.youtube.com/c/TalkMathWithYourFriends/) seminar series (May 2021)
 * [The Cops and Robbers Theorem: Infinite Series](https://youtu.be/9mJEu-j1KT0) A YouTube video from PBS about this topic. I consulted on the script for the video.
 * [Another video from PBS Infinite Series, a follow-up video to that first one.](https://youtu.be/fXvN-pF76-E) 
 * The 3x3 rooks graph is the unique smallest graph with lazy cop number 3: [https://arxiv.org/abs/1606.08485](https://arxiv.org/abs/1606.08485)

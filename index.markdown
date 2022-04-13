@@ -15,7 +15,7 @@ layout: home
                 If you're a mathematics educator interested in lesosn plans that use current events, news article, and social media posts to teach quantitative reasoning and mathemtics content, <em>please check out the <b>Eventmath</b> project!</em>
                 <ul>
                     <li><b>Eventmath</b> is funded by a <a href="https://meta.wikimedia.org/wiki/Grants:Project/Eventmath">Wikimedia Project Grant</a>.</li>
-                    <li>See our recent<a href="https://meta.wikimedia.org/wiki/Grants:Project/Eventmath/Midpoint"> Midpoint Report</a> for information about the project's status.</li>
+                    <li>See our recent <a href="https://meta.wikimedia.org/wiki/Grants:Project/Eventmath/Midpoint">Midpoint Report</a> for information about the project's status.</li>
                     <li>Visit https://bit.ly/JoinEventmath to join our mailing list and indicate your interest in various aspects of the project (contributing lesson plans, sharing feedback, etc.) Please share this link with anyone else who might be interested, as well!</li>
                     <li>Stay tuned for online, synchronous workshops about using and contributing to the <a href="https://en.wikiversity.org/wiki/Eventmath">Wikiversity site</a>.</li>
                 </ul>

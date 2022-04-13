@@ -9,9 +9,10 @@ layout: home
     <tbody>
         <tr>
             <td style="width: 30%;">
-                <img src="assets/images/bws-pic.jpg" width="300px"/>
+                <img src="assets/images/bws-pic.jpg" width="300px"/> <br><br>
+                Welcome to the homepage of Brendan W. Sullivan! Here, you will find information about my work as an Assistant Professor of Mathematics at Emmanuel College, Boston, MA.
             </td>
-            <td style="width: 68%;">Welcome! Here, you will find information about my work as an Assistant Professor of Mathematics. Click the tabs on the top (<em>About, Puzzles, Research, Teaching</em>) to learn more about specific areas of my work. (Please note that this site, in general, is still being developed!)<br><br> 
+            <td style="width: 68%;">Click the tabs on the top (<em>About, Puzzles, Research, Teaching</em>) to learn more about specific areas of my work. (Please note that this site, in general, is still being developed!)<br><br> 
                 If you're a mathematics educator interested in lesson plans that use current events, news articles, and social media posts to teach quantitative reasoning and mathemtics content, check out the <b>Eventmath</b> project!
                 <ul>
                     <li><b>Eventmath</b> is funded by a <a href="https://meta.wikimedia.org/wiki/Grants:Project/Eventmath">Wikimedia Project Grant</a>.</li>

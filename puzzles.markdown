@@ -36,6 +36,7 @@ I have published a few puzzles in traditional crossword outlets, as well as some
 ## Mathematical Crosswords
 Some of these puzzles have appeared in MAA periodicals (e.g. *Mathematics Magazine*) and some have appeared in conference materials at [MathFest](https://www.maa.org/meetings/mathfest) or the [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org//jmm). I'll try to keep this list updated, but you can also find many of these via my [Google Scholar](https://scholar.google.com/citations?user=KgrsM4cAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/project/Mathematics-Themed-Crosswords) profiles.
 
+* June 2023. ["Themeless Challenge Crossword"]([http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=793202&p=48&ver=html5](http://digitaleditions.walsworthprintgroup.com/publication/?i=793202&p=48&view=issueViewer)), *MAA FOCUS*, June/July 2023, 48-49. 15x15 themeless puzzle
 * January 2023. Joint Mathematics Meetings 2023 Contest Crossword. 15x15 themed puzzle. [pdf](https://www.dropbox.com/s/jzjkr81vxl5ce0y/JMM-2023.pdf?dl=0)
 * August 2022. MathFest 2022 Contest Crossword. 23x19 themed puzzle. [applet](https://amuselabs.com/pmm/crossword?id=343e9e4d&set=7b533671facd14f2b6d905180ef435f6bc1b6a960bad3da0b9362ea6db6e4e08)
 * September 2021. ["Mini Crossword Puzzle: What's the Main Idea?"](https://doi.org/10.1080/10724117.2021.1940503), *Math Horizons*, 29:1, 2. 10x10 themed puzzle. [pdf](https://www.tandfonline.com/doi/pdf/10.1080/10724117.2021.1940503)

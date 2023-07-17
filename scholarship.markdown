@@ -47,4 +47,4 @@ And for even more information, please check out...
 * An Introduction to Lazy Cops and Robbers on Graphs: [https://www.tandfonline.com/doi/abs/10.4169/college.math.j.48.5.322](https://www.tandfonline.com/doi/abs/10.4169/college.math.j.48.5.322)
 
 # Other
-I also have some expository presentations and writings, including the slides from my dissertation defense, posted on [my old CMU personal page] (https://www.math.cmu.edu/~bwsulliv/publications) (which I, unfortunately, can no longer update).
+I also have some expository presentations and writings, including the slides from my dissertation defense, posted on [my old CMU personal page](https://www.math.cmu.edu/~bwsulliv/publications) (which I, unfortunately, can no longer update).

@@ -8,15 +8,31 @@ layout: home
 <table style="border-collapse: collapse; width: 97.7137%;" border="0">
     <tbody>
         <tr>
-            <td style="width: 30%;">
+            <td style="width: 30%; vertical-align: top; padding-right: 1.5rem;">
                 <img src="assets/images/bws-pic.jpg" width="250px"/> <br><br>
             </td>
-            <td style="width: 68%;">
-                Welcome to the homepage of Brendan W. Sullivan! Here, you will find information about my work as an Assistant Professor of Mathematics at Emmanuel College, Boston, MA.<br><br>
-                Click the tabs on the top (<em>About, Puzzles, Scholarship, Teaching</em>) to learn more about specific areas of my work. (Please note that this site, in general, is still being developed!)<br><br> 
-                The <em>Posts</em> heading below has a chronological list of blog posts (with more to come). <br><br>
-            From any page, click my full name ↖ up there on the top left to return to this home page.
+            <td style="width: 68%; vertical-align: top;">
+                <h1>Brendan W. Sullivan</h1>
+                <p>I am a mathematician and educator interested in graph theory, voting methods, quantitative reasoning, puzzles, and the use of computation to explore mathematical ideas.</p>
+                <p>My current research work focuses on Cops and Robbers games on graphs, including computational tools for cop number, capture time, and optimal gameplay strategies.</p>
+                <p>Use the navigation above to learn more about my teaching, scholarship, and puzzle projects. From any page, click my full name in the upper-left corner to return here.</p>
             </td>
         </tr>
     </tbody>
 </table>
+
+## Featured Areas
+
+### [Computational Cops and Robbers](/Scholarship/Cops-and-Robbers/)
+SageMath tools, visualizations, and research notes about pursuit-evasion games on graphs.
+
+### [Teaching and Quantitative Reasoning](/teaching/)
+Course information, teaching notes, and reflections related to mathematical reasoning, assessment, and undergraduate learning.
+
+### [Voting Methods and Elections](/Scholarship/)
+Expository writing and resources about the mathematics of elections, voting methods, and collective decision-making.
+
+### [Puzzles](/Puzzles/)
+Mathematical crosswords, published puzzles, and notes on playful mathematical thinking.
+
+## Recent Notes

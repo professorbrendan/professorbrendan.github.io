@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Computational Cops and Robbers
 permalink: /Scholarship/Cops-and-Robbers/
 ---
 

@@ -3,6 +3,8 @@ layout: page
 permalink: /Scholarship/Cops-and-Robbers/
 ---
 
+# Computational Cops and Robbers
+
 **Cops and Robbers** is a pursuit-evasion game played on graphs. A team of cops chooses starting vertices, then a robber chooses a starting vertex. The players alternate turns by moving along edges of the graph, and the cops win if one of them lands on the robber.
 
 This project studies the game computationally, with a focus on cop number, capture time, and optimal strategies. I am particularly interested in the the "lazy cops" variant of the game where only one cop may move per turn, and I've recently focused on graphs formed via Cartesian and strong products of simpler factors. The long-term goal is to build a public mathematical workspace containing code, examples, visualizations, research notes, and data that can support both scholarly work and undergraduate research.
